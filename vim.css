@@ -60,7 +60,13 @@
 .navbar{
     display:flex;
     justify-content: space-between;
-    padding-right: 20px;
+    padding-right: 15px;
+}
+.iconbar{
+    display:flex;
+}
+.icon1{
+    padding-right:20px;
 }
 .smalltxt{
     margin-top:30px;
@@ -214,6 +220,9 @@
 
 .icons h2{
     padding-top: 1rem;
+}
+.copyt {
+    padding-left:20px;
 }
 
 /* media query styling */
@@ -437,8 +446,10 @@ main{
 .icons h2{
     font-size: 10px;
 }
-.copyt{
+.copyt {
     font-size: 10px;
     height:20px;
+    padding-left:20px;
 }
+
 } 
