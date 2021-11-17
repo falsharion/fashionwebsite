@@ -109,7 +109,7 @@
 }
 .gallery img{
     width:150px;
-    height:160px;
+    height:176px;
     margin-left:0px;
     padding-top:0px;
 }
@@ -118,10 +118,12 @@
 }
 
 .textbottom h2{
-    padding-left: 20px;
+    margin-right: 80px;
     padding-top: 120px;
     padding-bottom: 120px;
-    font-size: 40px;
+    font-size: 35px;
+    text-align: center;
+    width:50%;
 }
 .wrapper2{
     display: flex;
@@ -161,7 +163,8 @@
 }
 
 .form1{
-    padding-left:40%;
+    margin-left:450px;
+    width:50%;
     padding-top:50px;
 }
 .searchbutton{
@@ -317,7 +320,7 @@ main{
     
     .gallery img{
         width:100%;
-        height:109px;
+        height:86%;
         margin-left:0px;
         padding-top:0px;
     }
@@ -329,10 +332,13 @@ main{
 .txth{
     padding-top: 10px;
     padding-bottom:50px;
+    text-align: left;
+    margin-right:2px;
 }
 .showcase img{
     width: 85%;
     height:230px;
+    padding-left: 30px;
 }
 .textbottom{
     font-size: 10px;
@@ -341,13 +347,16 @@ main{
 }
 .textbottom h2{
     padding:20px;
-    font-size: 25px;
+    font-size: 15px;
+    width:80%;
+    margin-right:19px;
+
 
 }
 .form1 input{
    
     width:50%;
-    height:25px;
+    height:30px;
     border-radius:4px;
     border-style:1px ridge;
     padding-left:0.5rem;
@@ -355,9 +364,9 @@ main{
     margin-bottom: 1rem;
 }
 .form1 button{
-    width:25%;
-    height:24px;
-    border-radius:4px;
+    width:27%;
+    height:28px;
+    border-radius:2px;
     background-color: black;
     outline: none;
     border:none;
@@ -392,12 +401,11 @@ main{
 }
 
 .form1{
-  
-    padding-top:30px;
-    padding-left: 30px;
+    margin-left: 82px;
+    width: 69%;
 }
 .searchbutton{
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 
 .footer-container{
